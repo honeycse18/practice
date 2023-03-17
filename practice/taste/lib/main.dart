@@ -1,18 +1,13 @@
 import 'package:flutter/material.dart';
 
-/////
 void main() {
   runApp(const MyApp());
 }
-//push agei hoise..kintu ekta toast msg dekhay ..oita dey nai to tai vabci push hoy nai
-//code change korar por just commit kore push korlei update hoye jabe
 
-//tahole bank app nam er project ta ektu git a push kre dekhan to pls
-//project ta open koren
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
+  
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
